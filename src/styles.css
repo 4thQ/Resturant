@@ -12,6 +12,13 @@ body {
   background-size: cover;
 }
 
+.body2 {
+  background-color: rgb(0, 0, 0);
+  background: url(/images/Desinger2.png) center center fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .first-header {
   height: 4vh;
   display: flex;
