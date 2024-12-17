@@ -1,0 +1,69 @@
+/* styles.css */
+
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  background: url(/images/Designer.png) center center fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.first-header {
+  height: 4vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  color: white;
+  border-bottom: 0.1px rgba(255, 255, 255, 0.349) solid;
+  font-size: 11px;
+}
+
+.second-header {
+  height: 9vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.second-header > nav > button {
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-weight: bolder;
+}
+/* 
+homepage */
+.title {
+  color: white;
+  font-size: 90px;
+}
+
+.sub-title {
+  color: white;
+}
+
+.container {
+  text-align: center;
+  margin-top: 250px;
+}
+
+.container > * {
+  margin-top: 12px;
+}
+
+.bookTableBtn {
+  border: black solid 1px;
+  height: 30px;
+  background-color: rgb(230, 230, 141);
+}
+
+.bookTableBtn:active {
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+  border: 1px white double;
+}
