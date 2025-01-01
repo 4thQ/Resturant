@@ -4,8 +4,6 @@ import { menu } from "./menu";
 import { contact } from "./contact";
 
 homepage();
-// menu();
-// contact();
 
 const content = document.getElementById("content");
 const homeBtn = document.querySelector(".homeBtn");

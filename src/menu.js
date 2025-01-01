@@ -1,5 +1,5 @@
-import mLogo from "/home/nirajan/Resturant/images/menuicon.png";
 import mCheck from "/home/nirajan/Resturant/images/check.png";
+
 export function menu() {
   const content = document.querySelector("#content");
 
