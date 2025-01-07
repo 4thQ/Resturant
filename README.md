@@ -1,13 +1,6 @@
 # Resturant 
 
-## Description
-A simple restaurant management system. This project aims to streamline the process of managing restaurant operations, including order taking, billing, and inventory management.
-
-## Features
-- Order management
-- Billing system
-- Inventory tracking
-- User authentication
+## A basic website pages utilizing npm packages. From The Odin Project
 
 ## Installation
 1. Clone the repository:
