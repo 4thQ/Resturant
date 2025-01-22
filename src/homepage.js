@@ -10,7 +10,7 @@ export function homepage() {
 
   const p = document.createElement("p");
   p.classList.add("sub-title");
-  p.innerText = "Come with family & feel the joy of mouth watering food.";
+  p.innerText = "Come with family & feel the joy of mouth watering food!";
 
   const bookTableBtn = document.createElement("button");
   bookTableBtn.classList.add("bookTableBtn");
