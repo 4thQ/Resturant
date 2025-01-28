@@ -6,7 +6,7 @@ export function homepage() {
 
   const h1 = document.createElement("h1");
   h1.classList.add("title");
-  h1.innerText = "Delicious Inspiring Flavors By the Mt Everest";
+  h1.innerText = "Delicious Inspiring Flavors By Mt Everest";
 
   const p = document.createElement("p");
   p.classList.add("sub-title");
